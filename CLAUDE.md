@@ -333,6 +333,8 @@ If Joe explicitly asks Claude to proceed using reasonable assumptions, state tho
 
 ### 3. Show the plan
 
+**Always present a written plan and wait for approval before beginning any multi-step task.**
+
 Before executing a complex task:
 
 - provide a concise numbered plan;
